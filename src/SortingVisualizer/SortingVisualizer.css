@@ -1,0 +1,19 @@
+.container {
+  margin-top: 2vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-1 {
+  height: 78vh;
+}
+
+.container-2 button {
+  margin: 0 1vw;
+}
+
+.array-bar {
+  width: 0.3vw;
+  display: inline-block;
+  margin: 0 0.1vw;
+}
